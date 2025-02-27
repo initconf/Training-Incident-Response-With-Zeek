@@ -1,5 +1,4 @@
 module Notice;
-
 #hook notice(n: Notice::Info) &priority=1
 #{
 #
